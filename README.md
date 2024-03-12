@@ -1,0 +1,1 @@
+This script is designed to extract job postings from prominent freelancing platforms such as Upwork, Freelancer, and Mostaql. You have the flexibility to utilize it directly or employ it as an API. The data is refreshed hourly; however, you can adjust the update frequency as needed, taking precautions like proxy server usage to avoid potential bans.
