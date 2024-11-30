@@ -10,7 +10,6 @@ startScraping()
 let jsonData
 // Read the JSON file
 
-
 app.use(cors()); // Enable CORS for all routes
 
 app.get('/api/data', (req, res) => {
